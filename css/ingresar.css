@@ -1,0 +1,11 @@
+.form-holder {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    width: 1000px;
+}
+
+.formC {
+    width: 400px;
+}
